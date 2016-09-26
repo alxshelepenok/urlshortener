@@ -1,6 +1,6 @@
 # URL Shortener
 
-A simple library to shorten goo.gl URL's in Golang.
+A simple library to shorten URL's with goo.gl written in Golang.
 
 ## Basic usage
 
